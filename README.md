@@ -252,10 +252,4 @@ The `.env` file is loaded via `dotenv` (quiet mode). Missing keys will cause a r
 
 ---
 
-## License
-
-MIT © 2024‑2026 Your Name (or organization). Feel free to fork, modify, and use it in your own projects.  
-
----  
-
 **Happy hacking!** 🎉
